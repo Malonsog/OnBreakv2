@@ -34,7 +34,7 @@ namespace OnBreak.Negocio
 
                 return true;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return false;
             }
@@ -43,7 +43,6 @@ namespace OnBreak.Negocio
         public List<TipoEmpresa> ReadAll()
         {
             Datos.OnBreakEntities bbdd = new Datos.OnBreakEntities();
-
             try
             {
                 List<Datos.TipoEmpresa> listaDatos = bbdd.TipoEmpresa.ToList<Datos.TipoEmpresa>();
@@ -52,7 +51,7 @@ namespace OnBreak.Negocio
                 return listaNegocio;
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return new List<TipoEmpresa>();
             }

@@ -24,16 +24,16 @@ namespace OnBreak
         public VentanaListadoContratos()
         {
             InitializeComponent();
-            CargarTipos();
+            /*CargarTipos();*/
         }
 
-        private void CargarTipos()
+        /*private void CargarTipos()
         {
             cboTipoContrato.ItemsSource = new TipoEmpresa().ReadAll();
             cboTipoContrato.DisplayMemberPath = "Descripcion";
             cboTipoContrato.SelectedValuePath = "CodigoTipo";
             cboTipoContrato.SelectedIndex = 0;
-        }
+        }*/
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
