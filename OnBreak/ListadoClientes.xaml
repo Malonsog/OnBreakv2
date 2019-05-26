@@ -1,0 +1,41 @@
+﻿<Controls:MetroWindow
+    xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls" x:Class="OnBreak.VentanaListadoCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnBreak"
+        mc:Ignorable="d"
+        Title="Listado de Clientes" Height="378.883" Width="611.357">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Image Height="50" Width="50" Margin="10,5,20,10" VerticalAlignment="Top" HorizontalAlignment="Right" Source="img\logo_transparent_background.png"/>
+
+        <Label Content="Listado de Clientes" HorizontalAlignment="Left" Margin="24,10,0,0" VerticalAlignment="Top" Width="369" FontSize="18" Height="34"/>
+        <Button  Style="{StaticResource AccentedSquareButtonStyle}" Content="Filtrar" HorizontalAlignment="Left" Margin="400,80,0,0" VerticalAlignment="Top" Width="116" RenderTransformOrigin="0.5,0.5" Click="Button_Click" Height="28" BorderBrush="{x:Null}"/>
+
+
+        <TextBox Controls:TextBoxHelper.Watermark="Rut" HorizontalAlignment="Left" Height="26" Margin="24,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100"/>
+        <Button  Style="{DynamicResource SquareButtonStyle}" Content="Volver" HorizontalAlignment="Left" Margin="312,292,0,0" VerticalAlignment="Top" Width="214" RenderTransformOrigin="0.5,0.5" Click="Button_Click" Height="28" BorderBrush="{x:Null}" Background="#FFEEEEEE"/>
+
+        <TextBox Controls:TextBoxHelper.Watermark="Actividad" HorizontalAlignment="Left" Height="26" Margin="272,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100"/>
+        <DataGrid Style="{StaticResource AzureDataGrid}" Margin="24,131,87,104">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Rut"  />
+                <DataGridTextColumn Header="Nombres" />
+                <DataGridTextColumn Header="Apellidos" />
+                <DataGridTextColumn Header="Email"/>
+                <DataGridTextColumn Header="Empresa"/>
+                <DataGridTextColumn Header="Actividad"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <ComboBox HorizontalAlignment="Left" Margin="147,81,0,0" VerticalAlignment="Top" Width="93">
+            <ComboBoxItem Content="Tipo Empresa" HorizontalAlignment="Left" Width="91"/>
+            <ComboBoxItem Content="ComboBoxItem" HorizontalAlignment="Left" Width="91"/>
+        </ComboBox>
+    </Grid>
+</Controls:MetroWindow>

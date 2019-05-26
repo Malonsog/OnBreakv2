@@ -1,0 +1,58 @@
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\ListadoCliente.g.cs
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\Window1.g.cs
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\App.g.cs
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\App.baml
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\ListadoCliente.baml
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\Window1.baml
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.cache
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\OnBreak.csproj.CoreCompileInputs.cache
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\OnBreak.csproj.CopyComplete
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\ljgam\source\repos\OnBreak\OnBreak\obj\Debug\OnBreak.csprojAssemblyReference.cache
+D:\Duoc\SEM 03\DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\Trabajos\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak.exe
+D:\Duoc\SEM 03\DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\Trabajos\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\bin\Debug\OnBreak.exe
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\bin\Debug\ControlzEx.dll
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\bin\Debug\MahApps.Metro.dll
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\bin\Debug\ControlzEx.pdb
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\bin\Debug\MahApps.Metro.pdb
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\bin\Debug\MahApps.Metro.xml
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak.csprojAssemblyReference.cache
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\ListadoCliente.g.cs
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\Window1.g.cs
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\Window2.g.cs
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\App.g.cs
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\App.baml
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\ListadoCliente.baml
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\MainWindow.baml
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\Window1.baml
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\Window2.baml
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.cache
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak.csproj.CoreCompileInputs.cache
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak.csproj.CopyComplete
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak.exe
+D:\Duoc\SEM 03\03. DESARROLLO SOFTWARE DE ESCRITORIO Y GESTIÓN\02. TRABAJOS\Onbreak2\onbreak\OnBreak\OnBreak\obj\Debug\OnBreak.pdb
